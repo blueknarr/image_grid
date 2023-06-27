@@ -1,16 +1,13 @@
-# image_grid
+# FutureBuilder를 활용한 사진 앱
 
-A new Flutter project.
+- 앨범 목록(ListView), 사진 목록(GridView) 적용
+- 사진에 Hero 위젯 적용
+- router 적용
+- dto, mapper, model, repository 적용
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 앱 사진
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="394" alt="스크린샷 2023-06-27 오후 10 55 54" src="https://github.com/blueknarr/image_grid/assets/44389424/029350ce-d93f-4264-860f-b8c9cc71d113">
+<img width="395" alt="스크린샷 2023-06-27 오후 10 56 09" src="https://github.com/blueknarr/image_grid/assets/44389424/87134b1a-4994-4048-862a-4913862fdff3">
+<img width="394" alt="스크린샷 2023-06-27 오후 10 56 25" src="https://github.com/blueknarr/image_grid/assets/44389424/bd1fdc78-de02-4fea-809d-fa6ffe8e8a33">
